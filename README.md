@@ -64,6 +64,21 @@ The trained model is integrated into a Streamlit web application.
 
 The application allows users to enter student information and receive a predicted final grade.
 
+## 📸 Application Screenshot
+
+Here is a preview of the Streamlit application:
+
+![Streamlit Application](images/streamlit-app.png)
+![Prediction](images/prediction.png)
+
+## 📊 Prediction Graph
+
+The application also provides a visual representation of the prediction history.
+
+![Prediction Graph](images/prediction-graph.png)
+
+
+
 ## 🚀 How to Run
 
 Clone this repository and navigate to the project folder.
